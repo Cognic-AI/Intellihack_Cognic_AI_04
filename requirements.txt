@@ -75,6 +75,7 @@ mistune==3.1.2
 ml-dtypes==0.4.1
 mplfinance==0.12.10b0
 namex==0.0.8
+narwhals==1.29.1
 nbclient==0.10.2
 nbconvert==7.16.6
 nbformat==5.10.4
@@ -93,6 +94,7 @@ parso==0.8.4
 patsy==1.0.1
 pillow==11.1.0
 platformdirs==4.3.6
+plotly==6.0.0
 pmdarima==2.0.4
 prometheus_client==0.21.1
 prompt_toolkit==3.0.50
